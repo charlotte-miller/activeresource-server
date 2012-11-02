@@ -70,9 +70,9 @@ That said, authentication is mostly outside the scope of this gem.  I have inclu
   
 
 ### Configuration
-**namespace**(default:'activeresource'): the base of the path (domain.com/:namespace/:resource/:id)
-**skip_models**(default:false): An array of models to skip when serving up resources
-**http_auth**(default:false): An ['username', 'password'] array. Off by default.
+**namespace**(default:'activeresource'): the base of the path (domain.com/:namespace/:resource/:id)  
+**skip_models**(default:false): An array of models to skip when serving up resources  
+**http_auth**(default:false): An ['username', 'password'] array. Off by default.  
 
 ## Contributing
 
